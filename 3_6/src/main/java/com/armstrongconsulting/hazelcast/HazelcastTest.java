@@ -10,7 +10,7 @@ import com.hazelcast.core.Hazelcast;
 import com.hazelcast.core.HazelcastInstance;
 import com.hazelcast.core.IMap;
 
-public class HazelcastTest_3_6_4 {
+public class HazelcastTest {
 	
 	public static void main(String[] args) {
 		Config cfg = new Config();
